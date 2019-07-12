@@ -15,3 +15,5 @@
 [Симбиотик Роби](stories/symbiotic_robi.md)
 
 [Космос Внутри](stories/space_inside.md)
+
+[Симбиотик Полиморфик](stories/symbiotic_polymorphic.md)
