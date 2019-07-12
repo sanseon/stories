@@ -21,3 +21,5 @@
 [Космос Внутри](stories/space_inside.md)
 
 [Симбиотик Полиморфик](stories/symbiotic_polymorphic.md)
+
+[Место, где рождаются облака](stories/place_where_clouds_were_born.md)
